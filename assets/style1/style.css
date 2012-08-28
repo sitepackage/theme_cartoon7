@@ -1,0 +1,185 @@
+#sidebar1 .topic1,
+#main .topic1{
+	font-size:1.4em;
+}
+.widgets{
+	background: url('widgets.png') no-repeat ;
+}
+.banners{
+	background: url('banners.png') no-repeat ;
+}
+.buttons{
+	background: url('buttons.png') no-repeat;
+}
+#nav-left .nav-left li {
+	background: url('icon_nav-left.png') no-repeat center left;
+}
+/*------------------- Font Color --------------------*/
+#header,
+#sidebar1 .list li a,
+#main #product .topic1 a,
+.footer,
+#header .logged_in li a,
+#main .column li a,
+#sidebar1 .topic2,
+#main .topic1{
+	color:#333;
+}
+.fl,
+#main .padding a,
+#header a,
+#blog .author,
+#article .author,
+#discussion .breadcrumb a,
+#main .column .bullets small,
+#comments li .meta span,
+#header .cart_status a{
+	color:#888;
+}
+#header .nav2 li a,
+#header .account .button,
+#header .account .signup,
+#discussion .listing th,
+#cart .items th,
+#collection .subcategory a,
+#sidebar1 .socials_wrapper .topic1{
+	color:#fff;	
+}
+#sidebar1 .nav-left .active a,
+#frontpage .column .topic2,
+#header .logged_in,
+#header .logged_in li a:hover,
+#header a:hover,
+#header .logo_wrapper .site_name,
+#sidebar1 .stats dd,
+#collection .grid .price,
+.footer a,
+#sidebar1 .list li a:hover,
+#blog .excerpt a,
+#header .cart_status a:hover,
+#main .column li a:hover,
+#header .nav2 a:hover,
+#blog .details .topic2 a:hover,
+#header .logged_in h2{
+	color:#17c6ee;
+}
+#blog .details .topic2 a,
+#collection .grid a:hover .view,
+#discussion .breadcrumb a:hover,
+#main .padding a:hover,
+#discussion .message a,
+#collection .subcategory a:hover,
+.footer a:hover,
+.footer .copyright a,
+.footer .copyright a:hover,
+#frontpage #collection .topic1{
+	color:#000;
+}
+#blog .excerpt a:hover{
+	color:#17c6ee;
+}
+#collection .grid a .view{
+	color:#fff;
+}
+/*------------------- Background Color --------------------*/
+#collection .subcategory a:hover{
+  background-color:#fff;
+}
+#header .nav2 a:hover{
+	background-color:#fff;
+	-moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -border-radius: 10px;
+  border-radius: 10px;
+}
+#header .nav2{
+	background-color:#08c4ef;
+	-moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -border-radius: 20px;
+  border-radius: 20px;
+}
+#collection .subcategory a{
+	-moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -border-radius: 15px;
+  border-radius: 15px;
+}
+#collection .buy a .view,
+#discussion .page .padding,
+#comments li .meta{
+	-moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -border-radius: 20px;
+  border-radius: 20px;
+}
+#discussion .page .padding,
+#comments li .meta{
+	background-color:#e7fbff;
+}
+#discussion .listing th,
+#cart .items th,
+#collection .subcategory a,
+#collection .grid a .view{
+  background-color:#08c4ef;
+}
+#discussion .listing .hover{
+  background-color:whitesmoke;	
+}
+#header .account .button{
+  background-color:#08c4ef;		
+}
+#header .account .signup{
+  background-color:#555;	
+}
+#header .highlight_wrapper{
+	background-color:#000;
+}
+#header .account .signup:hover,
+#collection .grid a:hover .view{
+  background-color:#a6dfec;	
+}
+#sidebar1 .socials_wrapper{
+	background-color:#343434;
+	-moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -border-radius: 15px;
+  border-radius: 15px;	
+}
+
+/*------------------- Border Color --------------------*/
+#sidebar1 .list li,
+#discussion .listing td,
+#blog .padding li,
+#main .column ul li,
+#cart_form td{
+	border-bottom:1px dotted #4f4f4f;
+}
+#message .padding{
+	border:2px dotted #4f4f4f;
+	-moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -border-radius: 20px;
+  border-radius: 20	px;	
+}
+#header .highlight_wrapper{
+	border:8px solid #000;
+	-moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -border-radius: 20px;
+  border-radius: 20	px;		
+}
+#header .bx-window {
+	-moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -border-radius: 20px;
+  border-radius: 20	px;
+	overflow:hidden;
+}
+#header .nav li a,
+#header .nav li a:hover{
+	border-right: 2px dotted #08c4ef;
+}
+#nav-left .nav-left{
+	border:2px dotted #4f4f4f;	
+}
